@@ -1,0 +1,2 @@
+<script>alert("Hello")</script>
+<script>document.body.innerHTML="Hello"</script>
